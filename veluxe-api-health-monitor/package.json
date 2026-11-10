@@ -1,0 +1,9 @@
+{
+  "name": "veluxe-api-health-monitor",
+  "version": "1.0.0",
+  "description": "Lightweight self-hosted API uptime and latency monitor by Veluxe Digital",
+  "type": "module",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=20"},
+  "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+  "port": 3000,
+  "intervalSeconds": 60,
+  "timeoutMs": 8000,
+  "retention": 1000,
+  "targets": [
+    {"name": "Example API", "url": "https://example.com", "expectedStatus": 200}
+  ]
+}
